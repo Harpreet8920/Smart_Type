@@ -3,8 +3,6 @@
 
 A modern, intelligent predictive keyboard system that uses Natural Language Processing (NLP) to provide real-time word suggestions and autocorrect functionality. Built with Python (Flask) backend and React TypeScript frontend.
 
-![Predictive Keyboard Demo](https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&q=80&w=2940&h=750)
-
 ## Features
 
 - **Real-time Word Predictions**: Uses N-gram language models to predict the next word based on context
